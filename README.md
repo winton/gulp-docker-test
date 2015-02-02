@@ -1,1 +1,1 @@
-# gulp-docker-test
+Test project for `gulp-docker`.
